@@ -1,5 +1,5 @@
 
-% % Aluno: Wagner de Barros Rupp Simioni
+% % Aluno: Wagner Rupp 
 % % Data: 07/10/2017
 %% Formulacao do problema
 % % %Objetivo
